@@ -1,0 +1,8 @@
+html, body {
+    height: 100%;
+}
+
+body {
+    background-color: #000 !important; /* TODO: don't have time right now to figure out why this is necessary */
+    padding: 50px;
+}
